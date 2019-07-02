@@ -1,0 +1,1 @@
+https://github.com/ufal/udpipe/releases/download/v1.2.0/udpipe-1.2.0-bin.zip 에서 udpipe 실행파일 다운로드 가능 

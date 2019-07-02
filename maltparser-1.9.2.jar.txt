@@ -1,0 +1,8 @@
+http://maltparser.org/dist/maltparser-1.9.2.zip 에서 maltparser-1.9.2.jar 다운로드 가능
+
+maltparser-1.9.2.jar 파일이 있는 디렉토리에 lib 디렉토리에 다음 세가지 jar 파일이 있어야 실행가능함: http://maltparser.org/dist/maltparser-1.9.2.zip 파일내에 모두 포함되어 있음
+
+liblinear-1.8.jar 
+libsvm.jar        
+log4j.jar
+
